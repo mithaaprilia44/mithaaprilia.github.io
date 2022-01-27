@@ -1,0 +1,2 @@
+incoming.telemetry.mozilla.org:HSTS	0	19014	1674373237791,1,0,2
+aus5.mozilla.org:HSTS	0	19014	1674373237092,1,0,2

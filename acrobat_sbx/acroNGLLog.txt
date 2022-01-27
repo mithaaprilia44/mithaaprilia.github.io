@@ -1,0 +1,618 @@
+14-01-2022 02:59:10:	---2---
+14-01-2022 02:59:10:	AcroNGL Integ ADC-4240758 : ***************************************
+14-01-2022 02:59:10:	AcroNGL Integ ADC-4240758 : ***************************************
+14-01-2022 02:59:10:	AcroNGL Integ ADC-4240758 : ********  Starting new session ********
+14-01-2022 02:59:10:	AcroNGL Integ ADC-4240758 : Starting NGL
+14-01-2022 02:59:10:	AcroNGL Integ ADC-4240758 : Setting synchronous launch.
+14-01-2022 02:59:10:	AcroNGL Integ ADC-4240758 :::::    Configuring as AcrobatReader1
+14-01-2022 02:59:10:	AcroNGL Integ ADC-4240758 : NGLAppVersion 21.11.20039.6
+14-01-2022 02:59:10:	AcroNGL Integ ADC-4240758 : NGLAppMode NGL_INIT
+14-01-2022 02:59:10:	AcroNGL Integ ADC-4240758 : AcroCEFPath, NGLCEFWorkflowModulePath - C:\Program Files\Adobe\Acrobat DC\Acrobat\acrocef_1 
+14-01-2022 02:59:14:	AcroNGL Integ ADC-4240758 : InitializeProfileUpdates
+14-01-2022 02:59:14:	AcroNGL Integ ADC-4240758 : setting iMaxIPUWaitTime as 10000
+14-01-2022 02:59:14:	Closing File
+14-01-2022 02:59:14:	---2---
+14-01-2022 02:59:14:	AcroNGL Integ ADC-4240758 : CheckingLicenseValidity from cache profile...
+14-01-2022 02:59:14:	AcroNGL Integ ADC-4240758 : == printProfileData Profile ErrorCode : [1]
+14-01-2022 02:59:14:	AcroNGL Integ ADC-4240758 : 401 WORKFLOW_REQUIRED : PROFILE_EXPIRED : PROFILE_UNAVAILABLE : PROFILE_DENIED : PROFILE_OVERACTIVATED : PROFILE_LOCALE_RECONFIGURE : PROFILE_SIGNIN : PROFILE_SIGNOUT 408
+14-01-2022 02:59:14:	User / Password  NOT present
+14-01-2022 02:59:14:	AcroNGL Integ ADC-4240758 : == printAMTData Result ErrorCode : [1]
+14-01-2022 02:59:14:	AcroNGL Integ ADC-4240758 :::::    AMTDataResult  
+ mRecommendedAppLocale : en_US
+ mLicenseDataFromProfile :: 
+{ 
+  mLegacyLicenseId  : 
+  mLicenseType  : LICENSE_TYPE_UNKNOWN
+  mLicenseVersion : 
+  mLicensePaidTermEndDate : -1
+  mOfflineGraceDuration : 0
+  mRemainingLicenseDuration : -1
+  mLicensedFeatures  : 
+  mProductID : 0
+  mSerialKey : 
+  mSerialLocale : 
+  mAssociatedLocales : 
+  mLicensedPlatform  : SERIAL_PLATFORM_MLP
+  mInstallerScenarioKey : 0
+  mCustomerSegment : CUSTOMER_SEGMENT_END_USER
+  mCustomerIdentifier : 0
+  mProductDeliveryMethod : DELIVERY_METHOD_ESD
+  mIsRoyaltyBearingEnabled : 0
+  mIsProtectedContentEnabled : 0
+  mIsTempLicense : 0
+  mUserGuid : 
+  mUserFirstName : 
+  mUserLastName : 
+  mUserEmail : 
+  mUserDisplayName : 
+  mUserCountryCode : 
+  mUserAccountType : 
+  mNglDeviceId : 
+  mLicenseId : 
+  mLicenseExpiryTimestamp : 0
+  mAppEntitlementStatus : 
+  mActivationType : 
+  mBillingStatus : 
+  mLicenseExpiryWarningStartTimestamp : 0
+  mLicenseExpiryWarningInterval : 0
+  kKeyAMTLegacyProfile : 1
+ } 
+14-01-2022 02:59:15:	Entitlement is 1
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 : ACROBAT LICENSE CHANGE NOTIFICATION : Entitlement is Reader/Residue.
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 : Processed Cached ProfileData
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 : RecommendedAppLocale : en_US SerialLocale :  AcrobatPreferredLicensedLocale : en_US
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 : InitializeWorkflows with locale : en_US launchLocale : en_US
+14-01-2022 02:59:15:	Closing File
+14-01-2022 02:59:15:	---2---
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 :    Recieved profileNotifier
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 :    profileNotifier lNotificationId = 2
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 :    Profile delay added = 0
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 : AcroNGLProcessNglProfileDelayProc lNotificationId = 2
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 : AcroNGLProfileManager Processing NGL Profile...
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 : CheckingLicenseValidity...
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 : == printProfileData Profile ErrorCode : [403]
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 : 401 WORKFLOW_REQUIRED : PROFILE_EXPIRED : PROFILE_UNAVAILABLE : PROFILE_DENIED : PROFILE_OVERACTIVATED : PROFILE_LOCALE_RECONFIGURE : PROFILE_SIGNIN : PROFILE_SIGNOUT 408
+14-01-2022 02:59:15:	User / Password  NOT present
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 : == printAMTData Result ErrorCode : [403]
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 :::::    AMTDataResult  
+ mRecommendedAppLocale : en_US
+ mLicenseDataFromProfile :: 
+{ 
+  mLegacyLicenseId  : 
+  mLicenseType  : LICENSE_TYPE_UNKNOWN
+  mLicenseVersion : 
+  mLicensePaidTermEndDate : -1
+  mOfflineGraceDuration : 0
+  mRemainingLicenseDuration : -1
+  mLicensedFeatures  : 
+  mProductID : 0
+  mSerialKey : 
+  mSerialLocale : 
+  mAssociatedLocales : 
+  mLicensedPlatform  : SERIAL_PLATFORM_MLP
+  mInstallerScenarioKey : 0
+  mCustomerSegment : CUSTOMER_SEGMENT_END_USER
+  mCustomerIdentifier : 0
+  mProductDeliveryMethod : DELIVERY_METHOD_ESD
+  mIsRoyaltyBearingEnabled : 0
+  mIsProtectedContentEnabled : 0
+  mIsTempLicense : 0
+  mUserGuid : 
+  mUserFirstName : 
+  mUserLastName : 
+  mUserEmail : 
+  mUserDisplayName : 
+  mUserCountryCode : 
+  mUserAccountType : 
+  mNglDeviceId : 
+  mLicenseId : 
+  mLicenseExpiryTimestamp : 0
+  mAppEntitlementStatus : 
+  mActivationType : 
+  mBillingStatus : 
+  mLicenseExpiryWarningStartTimestamp : 0
+  mLicenseExpiryWarningInterval : 0
+  kKeyAMTLegacyProfile : 1
+ } 
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 : NglStatusCode::PROFILE_UNAVAILABLE
+14-01-2022 02:59:15:	Closing File
+14-01-2022 02:59:15:	---2---
+14-01-2022 02:59:15:	Entitlement is 1
+14-01-2022 02:59:15:	AcroNGL Integ ADC-4240758 : ACROBAT LICENSE CHANGE NOTIFICATION : Entitlement is Reader/Residue.
+14-01-2022 02:59:15:	Closing File
+14-01-2022 02:59:15:	---2---
+14-01-2022 02:59:15:	  Total ticks for ProcessNglProfile :: 6
+18-01-2022 03:28:40:	---2---
+18-01-2022 03:28:40:	AcroNGL Integ ADC-4240758 : ***************************************
+18-01-2022 03:28:40:	AcroNGL Integ ADC-4240758 : ***************************************
+18-01-2022 03:28:40:	AcroNGL Integ ADC-4240758 : ********  Starting new session ********
+18-01-2022 03:28:40:	AcroNGL Integ ADC-4240758 : Starting NGL
+18-01-2022 03:28:40:	AcroNGL Integ ADC-4240758 : Setting synchronous launch.
+18-01-2022 03:28:40:	AcroNGL Integ ADC-4240758 :::::    Configuring as AcrobatReader1
+18-01-2022 03:28:40:	AcroNGL Integ ADC-4240758 : NGLAppVersion 21.11.20039.6
+18-01-2022 03:28:40:	AcroNGL Integ ADC-4240758 : NGLAppMode NGL_INIT
+18-01-2022 03:28:40:	AcroNGL Integ ADC-4240758 : AcroCEFPath, NGLCEFWorkflowModulePath - C:\Program Files\Adobe\Acrobat DC\Acrobat\acrocef_1 
+18-01-2022 03:28:42:	AcroNGL Integ ADC-4240758 : InitializeProfileUpdates
+18-01-2022 03:28:42:	AcroNGL Integ ADC-4240758 : setting iMaxIPUWaitTime as 10000
+18-01-2022 03:28:42:	Closing File
+18-01-2022 03:28:42:	---2---
+18-01-2022 03:28:42:	AcroNGL Integ ADC-4240758 : CheckingLicenseValidity from cache profile...
+18-01-2022 03:28:42:	AcroNGL Integ ADC-4240758 : == printProfileData Profile ErrorCode : [1]
+18-01-2022 03:28:42:	AcroNGL Integ ADC-4240758 : 401 WORKFLOW_REQUIRED : PROFILE_EXPIRED : PROFILE_UNAVAILABLE : PROFILE_DENIED : PROFILE_OVERACTIVATED : PROFILE_LOCALE_RECONFIGURE : PROFILE_SIGNIN : PROFILE_SIGNOUT 408
+18-01-2022 03:28:42:	User / Password  NOT present
+18-01-2022 03:28:42:	AcroNGL Integ ADC-4240758 : == printAMTData Result ErrorCode : [1]
+18-01-2022 03:28:42:	AcroNGL Integ ADC-4240758 :::::    AMTDataResult  
+ mRecommendedAppLocale : en_US
+ mLicenseDataFromProfile :: 
+{ 
+  mLegacyLicenseId  : 
+  mLicenseType  : LICENSE_TYPE_UNKNOWN
+  mLicenseVersion : 
+  mLicensePaidTermEndDate : -1
+  mOfflineGraceDuration : 0
+  mRemainingLicenseDuration : -1
+  mLicensedFeatures  : 
+  mProductID : 0
+  mSerialKey : 
+  mSerialLocale : 
+  mAssociatedLocales : 
+  mLicensedPlatform  : SERIAL_PLATFORM_MLP
+  mInstallerScenarioKey : 0
+  mCustomerSegment : CUSTOMER_SEGMENT_END_USER
+  mCustomerIdentifier : 0
+  mProductDeliveryMethod : DELIVERY_METHOD_ESD
+  mIsRoyaltyBearingEnabled : 0
+  mIsProtectedContentEnabled : 0
+  mIsTempLicense : 0
+  mUserGuid : 
+  mUserFirstName : 
+  mUserLastName : 
+  mUserEmail : 
+  mUserDisplayName : 
+  mUserCountryCode : 
+  mUserAccountType : 
+  mNglDeviceId : 
+  mLicenseId : 
+  mLicenseExpiryTimestamp : 0
+  mAppEntitlementStatus : 
+  mActivationType : 
+  mBillingStatus : 
+  mLicenseExpiryWarningStartTimestamp : 0
+  mLicenseExpiryWarningInterval : 0
+  kKeyAMTLegacyProfile : 1
+ } 
+18-01-2022 03:28:43:	Entitlement is 1
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 : ACROBAT LICENSE CHANGE NOTIFICATION : Entitlement is Reader/Residue.
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 : Processed Cached ProfileData
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 : RecommendedAppLocale : en_US SerialLocale :  AcrobatPreferredLicensedLocale : en_US
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 : InitializeWorkflows with locale : en_US launchLocale : en_US
+18-01-2022 03:28:43:	Closing File
+18-01-2022 03:28:43:	---2---
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 :    Recieved profileNotifier
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 :    profileNotifier lNotificationId = 2
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 :    Profile delay added = 0
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 : AcroNGLProcessNglProfileDelayProc lNotificationId = 2
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 : AcroNGLProfileManager Processing NGL Profile...
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 : CheckingLicenseValidity...
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 : == printProfileData Profile ErrorCode : [403]
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 : 401 WORKFLOW_REQUIRED : PROFILE_EXPIRED : PROFILE_UNAVAILABLE : PROFILE_DENIED : PROFILE_OVERACTIVATED : PROFILE_LOCALE_RECONFIGURE : PROFILE_SIGNIN : PROFILE_SIGNOUT 408
+18-01-2022 03:28:43:	User / Password  NOT present
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 : == printAMTData Result ErrorCode : [403]
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 :::::    AMTDataResult  
+ mRecommendedAppLocale : en_US
+ mLicenseDataFromProfile :: 
+{ 
+  mLegacyLicenseId  : 
+  mLicenseType  : LICENSE_TYPE_UNKNOWN
+  mLicenseVersion : 
+  mLicensePaidTermEndDate : -1
+  mOfflineGraceDuration : 0
+  mRemainingLicenseDuration : -1
+  mLicensedFeatures  : 
+  mProductID : 0
+  mSerialKey : 
+  mSerialLocale : 
+  mAssociatedLocales : 
+  mLicensedPlatform  : SERIAL_PLATFORM_MLP
+  mInstallerScenarioKey : 0
+  mCustomerSegment : CUSTOMER_SEGMENT_END_USER
+  mCustomerIdentifier : 0
+  mProductDeliveryMethod : DELIVERY_METHOD_ESD
+  mIsRoyaltyBearingEnabled : 0
+  mIsProtectedContentEnabled : 0
+  mIsTempLicense : 0
+  mUserGuid : 
+  mUserFirstName : 
+  mUserLastName : 
+  mUserEmail : 
+  mUserDisplayName : 
+  mUserCountryCode : 
+  mUserAccountType : 
+  mNglDeviceId : 
+  mLicenseId : 
+  mLicenseExpiryTimestamp : 0
+  mAppEntitlementStatus : 
+  mActivationType : 
+  mBillingStatus : 
+  mLicenseExpiryWarningStartTimestamp : 0
+  mLicenseExpiryWarningInterval : 0
+  kKeyAMTLegacyProfile : 1
+ } 
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 : NglStatusCode::PROFILE_UNAVAILABLE
+18-01-2022 03:28:43:	Closing File
+18-01-2022 03:28:43:	---2---
+18-01-2022 03:28:43:	Entitlement is 1
+18-01-2022 03:28:43:	AcroNGL Integ ADC-4240758 : ACROBAT LICENSE CHANGE NOTIFICATION : Entitlement is Reader/Residue.
+18-01-2022 03:28:43:	Closing File
+18-01-2022 03:28:43:	---2---
+18-01-2022 03:28:43:	  Total ticks for ProcessNglProfile :: 3
+18-01-2022 03:57:50:	---2---
+18-01-2022 03:57:50:	AcroNGL Integ ADC-4240758 : ***************************************
+18-01-2022 03:57:50:	AcroNGL Integ ADC-4240758 : ***************************************
+18-01-2022 03:57:50:	AcroNGL Integ ADC-4240758 : ********  Starting new session ********
+18-01-2022 03:57:50:	AcroNGL Integ ADC-4240758 : Starting NGL
+18-01-2022 03:57:50:	AcroNGL Integ ADC-4240758 : Setting synchronous launch.
+18-01-2022 03:57:50:	AcroNGL Integ ADC-4240758 :::::    Configuring as AcrobatReader1
+18-01-2022 03:57:50:	AcroNGL Integ ADC-4240758 : NGLAppVersion 21.11.20039.6
+18-01-2022 03:57:50:	AcroNGL Integ ADC-4240758 : NGLAppMode NGL_INIT
+18-01-2022 03:57:50:	AcroNGL Integ ADC-4240758 : AcroCEFPath, NGLCEFWorkflowModulePath - C:\Program Files\Adobe\Acrobat DC\Acrobat\acrocef_1 
+18-01-2022 03:57:52:	AcroNGL Integ ADC-4240758 : InitializeProfileUpdates
+18-01-2022 03:57:52:	AcroNGL Integ ADC-4240758 : setting iMaxIPUWaitTime as 10000
+18-01-2022 03:57:52:	Closing File
+18-01-2022 03:57:52:	---2---
+18-01-2022 03:57:52:	AcroNGL Integ ADC-4240758 : CheckingLicenseValidity from cache profile...
+18-01-2022 03:57:52:	AcroNGL Integ ADC-4240758 : == printProfileData Profile ErrorCode : [1]
+18-01-2022 03:57:52:	AcroNGL Integ ADC-4240758 : 401 WORKFLOW_REQUIRED : PROFILE_EXPIRED : PROFILE_UNAVAILABLE : PROFILE_DENIED : PROFILE_OVERACTIVATED : PROFILE_LOCALE_RECONFIGURE : PROFILE_SIGNIN : PROFILE_SIGNOUT 408
+18-01-2022 03:57:52:	User / Password  NOT present
+18-01-2022 03:57:52:	AcroNGL Integ ADC-4240758 : == printAMTData Result ErrorCode : [1]
+18-01-2022 03:57:52:	AcroNGL Integ ADC-4240758 :::::    AMTDataResult  
+ mRecommendedAppLocale : en_US
+ mLicenseDataFromProfile :: 
+{ 
+  mLegacyLicenseId  : 
+  mLicenseType  : LICENSE_TYPE_UNKNOWN
+  mLicenseVersion : 
+  mLicensePaidTermEndDate : -1
+  mOfflineGraceDuration : 0
+  mRemainingLicenseDuration : -1
+  mLicensedFeatures  : 
+  mProductID : 0
+  mSerialKey : 
+  mSerialLocale : 
+  mAssociatedLocales : 
+  mLicensedPlatform  : SERIAL_PLATFORM_MLP
+  mInstallerScenarioKey : 0
+  mCustomerSegment : CUSTOMER_SEGMENT_END_USER
+  mCustomerIdentifier : 0
+  mProductDeliveryMethod : DELIVERY_METHOD_ESD
+  mIsRoyaltyBearingEnabled : 0
+  mIsProtectedContentEnabled : 0
+  mIsTempLicense : 0
+  mUserGuid : 
+  mUserFirstName : 
+  mUserLastName : 
+  mUserEmail : 
+  mUserDisplayName : 
+  mUserCountryCode : 
+  mUserAccountType : 
+  mNglDeviceId : 
+  mLicenseId : 
+  mLicenseExpiryTimestamp : 0
+  mAppEntitlementStatus : 
+  mActivationType : 
+  mBillingStatus : 
+  mLicenseExpiryWarningStartTimestamp : 0
+  mLicenseExpiryWarningInterval : 0
+  kKeyAMTLegacyProfile : 1
+ } 
+18-01-2022 03:57:53:	Entitlement is 1
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 : ACROBAT LICENSE CHANGE NOTIFICATION : Entitlement is Reader/Residue.
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 : Processed Cached ProfileData
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 : RecommendedAppLocale : en_US SerialLocale :  AcrobatPreferredLicensedLocale : en_US
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 : InitializeWorkflows with locale : en_US launchLocale : en_US
+18-01-2022 03:57:53:	Closing File
+18-01-2022 03:57:53:	---2---
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 :    Recieved profileNotifier
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 :    profileNotifier lNotificationId = 2
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 :    Profile delay added = 0
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 : AcroNGLProcessNglProfileDelayProc lNotificationId = 2
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 : AcroNGLProfileManager Processing NGL Profile...
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 : CheckingLicenseValidity...
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 : == printProfileData Profile ErrorCode : [403]
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 : 401 WORKFLOW_REQUIRED : PROFILE_EXPIRED : PROFILE_UNAVAILABLE : PROFILE_DENIED : PROFILE_OVERACTIVATED : PROFILE_LOCALE_RECONFIGURE : PROFILE_SIGNIN : PROFILE_SIGNOUT 408
+18-01-2022 03:57:53:	User / Password  NOT present
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 : == printAMTData Result ErrorCode : [403]
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 :::::    AMTDataResult  
+ mRecommendedAppLocale : en_US
+ mLicenseDataFromProfile :: 
+{ 
+  mLegacyLicenseId  : 
+  mLicenseType  : LICENSE_TYPE_UNKNOWN
+  mLicenseVersion : 
+  mLicensePaidTermEndDate : -1
+  mOfflineGraceDuration : 0
+  mRemainingLicenseDuration : -1
+  mLicensedFeatures  : 
+  mProductID : 0
+  mSerialKey : 
+  mSerialLocale : 
+  mAssociatedLocales : 
+  mLicensedPlatform  : SERIAL_PLATFORM_MLP
+  mInstallerScenarioKey : 0
+  mCustomerSegment : CUSTOMER_SEGMENT_END_USER
+  mCustomerIdentifier : 0
+  mProductDeliveryMethod : DELIVERY_METHOD_ESD
+  mIsRoyaltyBearingEnabled : 0
+  mIsProtectedContentEnabled : 0
+  mIsTempLicense : 0
+  mUserGuid : 
+  mUserFirstName : 
+  mUserLastName : 
+  mUserEmail : 
+  mUserDisplayName : 
+  mUserCountryCode : 
+  mUserAccountType : 
+  mNglDeviceId : 
+  mLicenseId : 
+  mLicenseExpiryTimestamp : 0
+  mAppEntitlementStatus : 
+  mActivationType : 
+  mBillingStatus : 
+  mLicenseExpiryWarningStartTimestamp : 0
+  mLicenseExpiryWarningInterval : 0
+  kKeyAMTLegacyProfile : 1
+ } 
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 : NglStatusCode::PROFILE_UNAVAILABLE
+18-01-2022 03:57:53:	Closing File
+18-01-2022 03:57:53:	---2---
+18-01-2022 03:57:53:	Entitlement is 1
+18-01-2022 03:57:53:	AcroNGL Integ ADC-4240758 : ACROBAT LICENSE CHANGE NOTIFICATION : Entitlement is Reader/Residue.
+18-01-2022 03:57:53:	Closing File
+18-01-2022 03:57:53:	---2---
+18-01-2022 03:57:53:	  Total ticks for ProcessNglProfile :: 1
+24-01-2022 01:02:06:	---2---
+24-01-2022 01:02:06:	AcroNGL Integ ADC-4240758 : ***************************************
+24-01-2022 01:02:06:	AcroNGL Integ ADC-4240758 : ***************************************
+24-01-2022 01:02:06:	AcroNGL Integ ADC-4240758 : ********  Starting new session ********
+24-01-2022 01:02:06:	AcroNGL Integ ADC-4240758 : Starting NGL
+24-01-2022 01:02:06:	AcroNGL Integ ADC-4240758 : Setting synchronous launch.
+24-01-2022 01:02:06:	AcroNGL Integ ADC-4240758 :::::    Configuring as AcrobatReader1
+24-01-2022 01:02:06:	AcroNGL Integ ADC-4240758 : NGLAppVersion 21.11.20039.6
+24-01-2022 01:02:06:	AcroNGL Integ ADC-4240758 : NGLAppMode NGL_INIT
+24-01-2022 01:02:06:	AcroNGL Integ ADC-4240758 : AcroCEFPath, NGLCEFWorkflowModulePath - C:\Program Files\Adobe\Acrobat DC\Acrobat\acrocef_1 
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : InitializeProfileUpdates
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : setting iMaxIPUWaitTime as 10000
+24-01-2022 01:02:08:	Closing File
+24-01-2022 01:02:08:	---2---
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : CheckingLicenseValidity from cache profile...
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : == printProfileData Profile ErrorCode : [1]
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : 401 WORKFLOW_REQUIRED : PROFILE_EXPIRED : PROFILE_UNAVAILABLE : PROFILE_DENIED : PROFILE_OVERACTIVATED : PROFILE_LOCALE_RECONFIGURE : PROFILE_SIGNIN : PROFILE_SIGNOUT 408
+24-01-2022 01:02:08:	User / Password  NOT present
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : == printAMTData Result ErrorCode : [1]
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 :::::    AMTDataResult  
+ mRecommendedAppLocale : en_US
+ mLicenseDataFromProfile :: 
+{ 
+  mLegacyLicenseId  : 
+  mLicenseType  : LICENSE_TYPE_UNKNOWN
+  mLicenseVersion : 
+  mLicensePaidTermEndDate : -1
+  mOfflineGraceDuration : 0
+  mRemainingLicenseDuration : -1
+  mLicensedFeatures  : 
+  mProductID : 0
+  mSerialKey : 
+  mSerialLocale : 
+  mAssociatedLocales : 
+  mLicensedPlatform  : SERIAL_PLATFORM_MLP
+  mInstallerScenarioKey : 0
+  mCustomerSegment : CUSTOMER_SEGMENT_END_USER
+  mCustomerIdentifier : 0
+  mProductDeliveryMethod : DELIVERY_METHOD_ESD
+  mIsRoyaltyBearingEnabled : 0
+  mIsProtectedContentEnabled : 0
+  mIsTempLicense : 0
+  mUserGuid : 
+  mUserFirstName : 
+  mUserLastName : 
+  mUserEmail : 
+  mUserDisplayName : 
+  mUserCountryCode : 
+  mUserAccountType : 
+  mNglDeviceId : 
+  mLicenseId : 
+  mLicenseExpiryTimestamp : 0
+  mAppEntitlementStatus : 
+  mActivationType : 
+  mBillingStatus : 
+  mLicenseExpiryWarningStartTimestamp : 0
+  mLicenseExpiryWarningInterval : 0
+  kKeyAMTLegacyProfile : 1
+ } 
+24-01-2022 01:02:08:	Entitlement is 1
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : ACROBAT LICENSE CHANGE NOTIFICATION : Entitlement is Reader/Residue.
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : Processed Cached ProfileData
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : RecommendedAppLocale : en_US SerialLocale :  AcrobatPreferredLicensedLocale : en_US
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : InitializeWorkflows with locale : en_US launchLocale : en_US
+24-01-2022 01:02:08:	Closing File
+24-01-2022 01:02:08:	---2---
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 :    Recieved profileNotifier
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 :    profileNotifier lNotificationId = 2
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 :    Profile delay added = 0
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : AcroNGLProcessNglProfileDelayProc lNotificationId = 2
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : AcroNGLProfileManager Processing NGL Profile...
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : CheckingLicenseValidity...
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : == printProfileData Profile ErrorCode : [403]
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : 401 WORKFLOW_REQUIRED : PROFILE_EXPIRED : PROFILE_UNAVAILABLE : PROFILE_DENIED : PROFILE_OVERACTIVATED : PROFILE_LOCALE_RECONFIGURE : PROFILE_SIGNIN : PROFILE_SIGNOUT 408
+24-01-2022 01:02:08:	User / Password  NOT present
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : == printAMTData Result ErrorCode : [403]
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 :::::    AMTDataResult  
+ mRecommendedAppLocale : en_US
+ mLicenseDataFromProfile :: 
+{ 
+  mLegacyLicenseId  : 
+  mLicenseType  : LICENSE_TYPE_UNKNOWN
+  mLicenseVersion : 
+  mLicensePaidTermEndDate : -1
+  mOfflineGraceDuration : 0
+  mRemainingLicenseDuration : -1
+  mLicensedFeatures  : 
+  mProductID : 0
+  mSerialKey : 
+  mSerialLocale : 
+  mAssociatedLocales : 
+  mLicensedPlatform  : SERIAL_PLATFORM_MLP
+  mInstallerScenarioKey : 0
+  mCustomerSegment : CUSTOMER_SEGMENT_END_USER
+  mCustomerIdentifier : 0
+  mProductDeliveryMethod : DELIVERY_METHOD_ESD
+  mIsRoyaltyBearingEnabled : 0
+  mIsProtectedContentEnabled : 0
+  mIsTempLicense : 0
+  mUserGuid : 
+  mUserFirstName : 
+  mUserLastName : 
+  mUserEmail : 
+  mUserDisplayName : 
+  mUserCountryCode : 
+  mUserAccountType : 
+  mNglDeviceId : 
+  mLicenseId : 
+  mLicenseExpiryTimestamp : 0
+  mAppEntitlementStatus : 
+  mActivationType : 
+  mBillingStatus : 
+  mLicenseExpiryWarningStartTimestamp : 0
+  mLicenseExpiryWarningInterval : 0
+  kKeyAMTLegacyProfile : 1
+ } 
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : NglStatusCode::PROFILE_UNAVAILABLE
+24-01-2022 01:02:08:	Closing File
+24-01-2022 01:02:08:	---2---
+24-01-2022 01:02:08:	Entitlement is 1
+24-01-2022 01:02:08:	AcroNGL Integ ADC-4240758 : ACROBAT LICENSE CHANGE NOTIFICATION : Entitlement is Reader/Residue.
+24-01-2022 01:02:08:	Closing File
+24-01-2022 01:02:08:	---2---
+24-01-2022 01:02:08:	  Total ticks for ProcessNglProfile :: 2
+24-01-2022 01:02:43:	---2---
+24-01-2022 01:02:43:	AcroNGL Integ ADC-4240758 : ***************************************
+24-01-2022 01:02:43:	AcroNGL Integ ADC-4240758 : ***************************************
+24-01-2022 01:02:43:	AcroNGL Integ ADC-4240758 : ********  Starting new session ********
+24-01-2022 01:02:43:	AcroNGL Integ ADC-4240758 : Starting NGL
+24-01-2022 01:02:43:	AcroNGL Integ ADC-4240758 : Setting synchronous launch.
+24-01-2022 01:02:43:	AcroNGL Integ ADC-4240758 :::::    Configuring as AcrobatReader1
+24-01-2022 01:02:43:	AcroNGL Integ ADC-4240758 : NGLAppVersion 21.11.20039.6
+24-01-2022 01:02:43:	AcroNGL Integ ADC-4240758 : NGLAppMode NGL_INIT
+24-01-2022 01:02:43:	AcroNGL Integ ADC-4240758 : AcroCEFPath, NGLCEFWorkflowModulePath - C:\Program Files\Adobe\Acrobat DC\Acrobat\acrocef_1 
+24-01-2022 01:02:46:	AcroNGL Integ ADC-4240758 : InitializeProfileUpdates
+24-01-2022 01:02:46:	AcroNGL Integ ADC-4240758 : setting iMaxIPUWaitTime as 10000
+24-01-2022 01:02:46:	Closing File
+24-01-2022 01:02:46:	---2---
+24-01-2022 01:02:46:	AcroNGL Integ ADC-4240758 : CheckingLicenseValidity from cache profile...
+24-01-2022 01:02:46:	AcroNGL Integ ADC-4240758 : == printProfileData Profile ErrorCode : [1]
+24-01-2022 01:02:46:	AcroNGL Integ ADC-4240758 : 401 WORKFLOW_REQUIRED : PROFILE_EXPIRED : PROFILE_UNAVAILABLE : PROFILE_DENIED : PROFILE_OVERACTIVATED : PROFILE_LOCALE_RECONFIGURE : PROFILE_SIGNIN : PROFILE_SIGNOUT 408
+24-01-2022 01:02:46:	User / Password  NOT present
+24-01-2022 01:02:46:	AcroNGL Integ ADC-4240758 : == printAMTData Result ErrorCode : [1]
+24-01-2022 01:02:46:	AcroNGL Integ ADC-4240758 :::::    AMTDataResult  
+ mRecommendedAppLocale : en_US
+ mLicenseDataFromProfile :: 
+{ 
+  mLegacyLicenseId  : 
+  mLicenseType  : LICENSE_TYPE_UNKNOWN
+  mLicenseVersion : 
+  mLicensePaidTermEndDate : -1
+  mOfflineGraceDuration : 0
+  mRemainingLicenseDuration : -1
+  mLicensedFeatures  : 
+  mProductID : 0
+  mSerialKey : 
+  mSerialLocale : 
+  mAssociatedLocales : 
+  mLicensedPlatform  : SERIAL_PLATFORM_MLP
+  mInstallerScenarioKey : 0
+  mCustomerSegment : CUSTOMER_SEGMENT_END_USER
+  mCustomerIdentifier : 0
+  mProductDeliveryMethod : DELIVERY_METHOD_ESD
+  mIsRoyaltyBearingEnabled : 0
+  mIsProtectedContentEnabled : 0
+  mIsTempLicense : 0
+  mUserGuid : 
+  mUserFirstName : 
+  mUserLastName : 
+  mUserEmail : 
+  mUserDisplayName : 
+  mUserCountryCode : 
+  mUserAccountType : 
+  mNglDeviceId : 
+  mLicenseId : 
+  mLicenseExpiryTimestamp : 0
+  mAppEntitlementStatus : 
+  mActivationType : 
+  mBillingStatus : 
+  mLicenseExpiryWarningStartTimestamp : 0
+  mLicenseExpiryWarningInterval : 0
+  kKeyAMTLegacyProfile : 1
+ } 
+24-01-2022 01:02:47:	Entitlement is 1
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 : ACROBAT LICENSE CHANGE NOTIFICATION : Entitlement is Reader/Residue.
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 : Processed Cached ProfileData
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 : RecommendedAppLocale : en_US SerialLocale :  AcrobatPreferredLicensedLocale : en_US
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 : InitializeWorkflows with locale : en_US launchLocale : en_US
+24-01-2022 01:02:47:	Closing File
+24-01-2022 01:02:47:	---2---
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 :    Recieved profileNotifier
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 :    profileNotifier lNotificationId = 2
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 :    Profile delay added = 0
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 : AcroNGLProcessNglProfileDelayProc lNotificationId = 2
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 : AcroNGLProfileManager Processing NGL Profile...
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 : CheckingLicenseValidity...
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 : == printProfileData Profile ErrorCode : [403]
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 : 401 WORKFLOW_REQUIRED : PROFILE_EXPIRED : PROFILE_UNAVAILABLE : PROFILE_DENIED : PROFILE_OVERACTIVATED : PROFILE_LOCALE_RECONFIGURE : PROFILE_SIGNIN : PROFILE_SIGNOUT 408
+24-01-2022 01:02:47:	User / Password  NOT present
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 : == printAMTData Result ErrorCode : [403]
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 :::::    AMTDataResult  
+ mRecommendedAppLocale : en_US
+ mLicenseDataFromProfile :: 
+{ 
+  mLegacyLicenseId  : 
+  mLicenseType  : LICENSE_TYPE_UNKNOWN
+  mLicenseVersion : 
+  mLicensePaidTermEndDate : -1
+  mOfflineGraceDuration : 0
+  mRemainingLicenseDuration : -1
+  mLicensedFeatures  : 
+  mProductID : 0
+  mSerialKey : 
+  mSerialLocale : 
+  mAssociatedLocales : 
+  mLicensedPlatform  : SERIAL_PLATFORM_MLP
+  mInstallerScenarioKey : 0
+  mCustomerSegment : CUSTOMER_SEGMENT_END_USER
+  mCustomerIdentifier : 0
+  mProductDeliveryMethod : DELIVERY_METHOD_ESD
+  mIsRoyaltyBearingEnabled : 0
+  mIsProtectedContentEnabled : 0
+  mIsTempLicense : 0
+  mUserGuid : 
+  mUserFirstName : 
+  mUserLastName : 
+  mUserEmail : 
+  mUserDisplayName : 
+  mUserCountryCode : 
+  mUserAccountType : 
+  mNglDeviceId : 
+  mLicenseId : 
+  mLicenseExpiryTimestamp : 0
+  mAppEntitlementStatus : 
+  mActivationType : 
+  mBillingStatus : 
+  mLicenseExpiryWarningStartTimestamp : 0
+  mLicenseExpiryWarningInterval : 0
+  kKeyAMTLegacyProfile : 1
+ } 
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 : NglStatusCode::PROFILE_UNAVAILABLE
+24-01-2022 01:02:47:	Closing File
+24-01-2022 01:02:47:	---2---
+24-01-2022 01:02:47:	Entitlement is 1
+24-01-2022 01:02:47:	AcroNGL Integ ADC-4240758 : ACROBAT LICENSE CHANGE NOTIFICATION : Entitlement is Reader/Residue.
+24-01-2022 01:02:47:	Closing File
